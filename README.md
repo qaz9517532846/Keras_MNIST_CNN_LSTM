@@ -10,7 +10,7 @@ Step1. Read image data transform to numpy, save numpy file.
 read_txt_test.py
 ```
 
-Step2. Train and test image using RNN.
+Step2. Train and test image using combining CNN and LSTM.
 ``` bash
 Keras_MNIST_LSTM_CNN.py
 ```
